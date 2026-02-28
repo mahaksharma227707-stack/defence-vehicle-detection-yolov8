@@ -11,9 +11,9 @@ Detect military vehicles in aerial images using a simple YOLOv8 model. Trained w
 The dataset contains aerial images of tanks, armored vehicles, and military trucks. All images are labeled in YOLO format.  
 Train/Validation/Test split: <strong>70% / 20% / 10%</strong>.
 # How It Works
-<ol>
+<ul>
 <li>Load a pretrained YOLOv8 model (YOLOv8n for beginners)</li>
 <li>Fine-tune on the aerial vehicle dataset</li>
 <li>Evaluate performance using standard object detection metrics</li>
 <li>Display bounding boxes on test images</li>
-</ol>
+</ul>
